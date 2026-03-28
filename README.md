@@ -3,7 +3,7 @@
 ## Project info
 
 **URL**: https://swift-resume-app.vercel.app/
-I Web-app where you can design your own resume 
+
 
 ## What technologies are used for this project?
 
